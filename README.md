@@ -1,2 +1,15 @@
-# BI-PS1
-FIT CTU · BI-PS1 · B161 – scripts, tutoring
+# BI-PA2
+
+My work on BI-PS1 in semester B161 at FIT CTU.
+
+## TL;DR
+
+Yo, I am not that good, sorry for that – but it works... well, sometimes. Whatever. Enjoy my shared work. :thumbsup:
+
+## [IO test script](iotest)
+
+## [Tutoring](tutoring)
+
+## License
+
+Licensed under the [MIT License](LICENSE).

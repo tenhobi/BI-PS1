@@ -1,0 +1,8 @@
+_test*
+
+*.d
+*.o
+*.out
+
+cmake-build-debug/
+vgcore.*

@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# zobrazení procesů
+printf
+
+# zobrazení pár informací o procesech
+printf -e
+
+# 
