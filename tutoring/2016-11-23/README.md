@@ -8,11 +8,6 @@
 - regulární výrazy
 - příkazy `grep` a `sed`
 
-## Přednáší
-
-- [Karel Jílek](https://twitter.com/TheKarlosss)
-- [Honza Bittner](https://twitter.com/tenhobi)
-
 ## Skripty
 
 1. [jednoduché filtry](filtry.sh)

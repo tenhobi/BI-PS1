@@ -6,11 +6,6 @@
 - operace se soubory a adresáři (`cp`, `mv`, `rm`, `mkdir`, `ln`, ...)
 - iterace přes soubory
 
-## Přednáší
-
-- [Karel Jílek](https://twitter.com/TheKarlosss)
-- [Honza Bittner](https://twitter.com/tenhobi)
-
 ## Skripty
 
 1. [cyklus](cyklus.sh)

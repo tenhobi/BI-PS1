@@ -11,10 +11,6 @@ Opakování a zdokonalování se z látky 1. testu, tedy:
 - argumenty
 - přesměrování
 
-## Přednáší
-
-- [Honza Bittner](https://twitter.com/tenhobi)
-
 ## Skripty
 
 1. [echo](echo.sh)

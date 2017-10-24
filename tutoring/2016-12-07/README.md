@@ -4,11 +4,6 @@
 
 - příkaz `awk`
 
-## Přednáší
-
-- [Karel Jílek](https://twitter.com/TheKarlosss)
-- [Honza Bittner](https://twitter.com/tenhobi)
-
 ## Skripty
 
 1. [Obecně o awk](awk.sh)
