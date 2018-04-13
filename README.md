@@ -1,4 +1,4 @@
-# BI-PA2
+# BI-PS1
 
 My work on BI-PS1 in semester B161 at [FIT CTU](https://fit.cvut.cz/en).
 
